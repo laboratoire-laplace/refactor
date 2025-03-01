@@ -21,7 +21,7 @@ This project allows running multiple agents simultaneously, each with its own co
 
 ## Dashboard Demo
 
-For a visual interface to monitor your agents in real-time, check out the companion dashboard project:
+For a visual interface to monitor your agents in real-time, check out the demo dashboard project:
 
 👉 **[Refactor Demo Dashboard](https://github.com/laboratoire-laplace/refactor-demo)**
 
